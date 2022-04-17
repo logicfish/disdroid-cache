@@ -4,7 +4,10 @@ module.exports = {
     {
       resolve: "gatsby-theme-amaranth",
       options: {
-        contentDir:"content",
+        website: {
+        },
+        contentDir: "content",
+        assetDir: "static",
       },
     },
   ],
