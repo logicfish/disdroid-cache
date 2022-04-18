@@ -13,7 +13,7 @@ module.exports = {
               logoUrl: "/logos/logo-1024.png", // Logo used for SEO
               fbAppId: "1825356251115265", // FB Application ID for using app insights
               twitterName: "Vagr9K", // Twitter handle of the website
-              url: "https://disdroid.netlify.com", // Domain of your website without the pathPrefix
+              url: "https://disdroid.netlify.app", // Domain of your website without the pathPrefix
               rss: "/rss.xml", // Path to the RSS file
               rssTitle: "Gatsby Advanced Starter RSS Feed", // Title of the RSS feed
 
