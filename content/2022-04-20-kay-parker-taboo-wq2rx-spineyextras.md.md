@@ -3,7 +3,7 @@ title: "Kay Parker Taboo #WQ2RX - spineyextras"
 description: DisDroid feat Spineyetras whiteadderaxtras wq2rx
 datePublished: 2022-04-20T13:13:42.141Z
 dateModified: 2022-04-20T13:13:42.184Z
-cover: https://bingeddata.s3.amazonaws.com/uploads/2020/12/xen77Yk6ymTSZrKHyLw5wxvnbHO.jpg
+cover: assets/xen77Yk6ymTSZrKHyLw5wxvnbHO.jpg
 coverAlt: Kay Parker, Taboo
 slug: Spineyetras whiteadderaxtras wq2rx
 category: legacy

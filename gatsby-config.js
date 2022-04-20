@@ -6,7 +6,7 @@ module.exports = {
       options: {
         website: {
               title: "DisDroid/IQI : Purple Cache", // Homepage title
-              titleShort: "DisDroid-purple", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation
+              titleShort: "DisDroid:purple", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation
               name: "DisDroid/Purple", // Website name used for homescreen (PWA) and SEO
               description: "DisDroid/IQI Purple cache site.", // Website description used for RSS feeds/meta description tag
               language: "en", // Sets the global HTML lang attribute
