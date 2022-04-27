@@ -25,7 +25,7 @@ Wanting to take an 11yr old to a hotel for sex and asked for indecent pictures.
 
 ### Click here to see [David Breen, Essex on Facebook](https://fb.watch/cF6giOsRQO/) to see the live chat.
 
-**Date 9th April 2022**
+**Date Saturday 23rd April 2022 - 23/4/2022**
 
 *Sting by **Broken Dreams Awareness***
 
