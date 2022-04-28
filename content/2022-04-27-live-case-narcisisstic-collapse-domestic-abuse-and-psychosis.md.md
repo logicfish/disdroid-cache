@@ -19,17 +19,11 @@ In the first clip we see her being aggressive and summoning her *Flying Monkeys*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftdr_MY9M8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> Apparently, she is biologically descended from the gaelic Red Branch and can warp the energy of the earth goddess through her body, going into a battle frenzy where it's not unknown for the warrior to turn round in their skin. 
+> Apparently, she is biologically descended from the gaelic [Red Branch](https://mythology.stackexchange.com/questions/1050/what-did-cuchulainns-warp-spasm-look-like) and can warp the energy of the earth goddess through her body, going into a battle frenzy where it's not unknown for the [warrior to turn right round in their skin](https://scifi.stackexchange.com/questions/36644/why-does-slaine-warp-spasm). 
 
 She loses pints of blood through arterial bleeding, but is still pottering around for hours as though nothing has happened. So here, she's gathered energy from Danu the earth goddess, who loves wicked witches just as much as good ones.
 
 ## She actually goes into a warp spasm, or "narcissistic collapse" as it's known in psychology
-
-
-
-
-
-
 
 > After the spasm, we found bits of her body that had broken off scattered all around the neighbourhood.
 
