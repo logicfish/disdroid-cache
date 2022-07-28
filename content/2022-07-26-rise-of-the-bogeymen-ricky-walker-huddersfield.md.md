@@ -14,4 +14,12 @@ tags:
   - huddersfield
 ---
 West Yorkshire Police Mix and match CCTV bingo
-Get three Bogeymen in a row and win 24 hours instant access to the west yorkshire police child abuse image database!
+
+
+Get three Bogeymen in a row and win 24 hours instant access to the west yorkshire police child abuse image database where you will learn more about Bogey's personal life and how he enjoys himself with his girlfriend and partner in crime Stacey Puke-Robinson
+
+![](assets/13220325557.jpg)
+
+![](assets/s-robs-2.png)
+
+![](assets/bogey-and-puke.png)
