@@ -33,7 +33,6 @@ Shortly afterwards, we got in touch with the police, and this lead to a string o
 TWO Huddersfield men have appeared in court in connection with separate child sex offences.
 
 * 08:00, 5 MAR 2010
-* Updated 03:44, 12 JUL 2013
 https://archive.ph/1SvPP
 
 ### [Slaithwaite child porn man Roy Stobbs ‘a potential danger’ to kids](https://archive.ph/5KqOf)
@@ -51,7 +50,6 @@ https://archive.ph/5KqOf
 A SEX abuser has been jailed for more than five years.
 
 * 05:00, 27 NOV 2010
-* Updated 01:46, 12 JUL 2013
 https://archive.ph/w1upl
 
 ### [Huddersfield sex abuser Christopher Metcalfe wins cut in sentence](https://archive.ph/veTsj)
@@ -59,7 +57,6 @@ https://archive.ph/w1upl
 A “DANGEROUS” Huddersfield paedophile who was jailed for sex attacks on a young girl has won a cut in his jail sentence.
 
 * 05:00, 31 MAR 2011
-* Updated 00:44, 12 JUL 2013
 https://archive.ph/veTsj
 
 ### [MP Barry Sheerman angry over Christopher Metcalfe sex case appeal ruling](https://archive.ph/cBs3s)
@@ -67,7 +64,6 @@ https://archive.ph/veTsj
 THE decision to cut the jail sentence for child abuser Christopher Metcalfe provoked anger from Huddersfield MP Barry Sheerman.
 
 * 08:47, 31 MAR 2011
-* Updated 00:44, 12 JUL 2013
 https://archive.ph/cBs3s
 
 
@@ -92,7 +88,6 @@ Although Stobbs did not receive a custodial sentence first time round, the polic
 The court heard that forensic experts recovered the images after attempts had been made to delete them from both computers, the first of which Stobbs maintains he got second hand
 
 * 08:06, 29 JUL 2014
-* Updated 19:20, 31 JUL 2014
 https://archive.ph/s9XoA
 
 ### [Meltham man Roy Stobbs jailed for second lot of child porn crimes](https://archive.ph/tuIRz)
@@ -100,5 +95,4 @@ https://archive.ph/s9XoA
 Second offence for porn pervert
 
 * 08:06, 28 AUG 2014
-* Updated 08:08, 28 AUG 2014
 https://archive.ph/tuIRz
