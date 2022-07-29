@@ -2,7 +2,7 @@
 title: Stobbs/Metcalfe/Carter/Vause - West Yorkshire's Urban Cartel
 description: Gangsters, trafficking, and rural family life don't mix!
 datePublished: 2022-07-26T16:59:17.351Z
-dateModified: 2022-07-29T05:44:07.902Z
+dateModified: 2022-07-29T06:46:35.853Z
 cover: assets/stobbs-2.jpg
 coverAlt: Roy Stobbs, Meltham, Huddersfield
 slug: urban-cartel
@@ -34,6 +34,7 @@ TWO Huddersfield men have appeared in court in connection with separate child se
 
 * 08:00, 5 MAR 2010
 * Updated 03:44, 12 JUL 2013
+https://archive.ph/1SvPP
 
 ### [Slaithwaite child porn man Roy Stobbs ‘a potential danger’ to kids](https://archive.ph/5KqOf)
 
@@ -41,6 +42,7 @@ A CONVICTED sex offender who downloaded nearly 7,000 indecent images of children
 
 * 05:00, 27 MAY 2010
 * Updated 03:21, 12 JUL 2013
+https://archive.ph/5KqOf
 
 ![](assets/christopher-metcalfe-748766357.webp)
 
@@ -50,6 +52,7 @@ A SEX abuser has been jailed for more than five years.
 
 * 05:00, 27 NOV 2010
 * Updated 01:46, 12 JUL 2013
+https://archive.ph/w1upl
 
 ### [Huddersfield sex abuser Christopher Metcalfe wins cut in sentence](https://archive.ph/veTsj)
 
@@ -57,6 +60,7 @@ A “DANGEROUS” Huddersfield paedophile who was jailed for sex attacks on a yo
 
 * 05:00, 31 MAR 2011
 * Updated 00:44, 12 JUL 2013
+https://archive.ph/veTsj
 
 ### [MP Barry Sheerman angry over Christopher Metcalfe sex case appeal ruling](https://archive.ph/cBs3s)
 
@@ -64,7 +68,7 @@ THE decision to cut the jail sentence for child abuser Christopher Metcalfe prov
 
 * 08:47, 31 MAR 2011
 * Updated 00:44, 12 JUL 2013
-
+https://archive.ph/cBs3s
 
 
 The evidence we supplied was not used in court for this case, we did see some incriminating documents concerning this unhealthy specimen: DC Michael Vause
@@ -88,7 +92,8 @@ Although Stobbs did not receive a custodial sentence first time round, the polic
 The court heard that forensic experts recovered the images after attempts had been made to delete them from both computers, the first of which Stobbs maintains he got second hand
 
 * 08:06, 29 JUL 2014
-* Updated19:20, 31 JUL 2014
+* Updated 19:20, 31 JUL 2014
+https://archive.ph/s9XoA
 
 ### [Meltham man Roy Stobbs jailed for second lot of child porn crimes](https://archive.ph/tuIRz)
 
@@ -96,3 +101,4 @@ Second offence for porn pervert
 
 * 08:06, 28 AUG 2014
 * Updated 08:08, 28 AUG 2014
+https://archive.ph/tuIRz
