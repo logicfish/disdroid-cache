@@ -5,7 +5,7 @@ module.exports = {
       resolve: "gatsby-theme-disdronic",
       options: {
         website: {
-              title: "DisDroid/IQI : Purple Cachei #iqsec", // Homepage title
+              title: "DisDroid/IQI : Purple Cache #iqsec", // Homepage title
               titleShort: "DisDroid:purple", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation
               name: "DisDroid/Purple", // Website name used for homescreen (PWA) and SEO
               description: "DisDroid/IQI Purple #iqsec", // Website description used for RSS feeds/meta description tag
