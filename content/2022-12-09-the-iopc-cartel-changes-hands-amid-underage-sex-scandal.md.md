@@ -12,11 +12,11 @@ category: casefile
 tags:
   - iopc
 ---
-[Head of police complaints watchdog Michael Lockwood QUITS £190,000-a-year role amid criminal investigation into an allegation 'of a sexual nature' from 40 years ago](<Head of police complaints watchdog Michael Lockwood QUITS £190,000-a-year role amid criminal investigation into an allegation 'of a sexual nature' from 40 years ago>)
+[Head of police complaints watchdog Michael Lockwood QUITS £190,000-a-year role amid criminal investigation into an allegation 'of a sexual nature' from 40 years ago](https://www.dailymail.co.uk/news/article-11499051/Head-police-conduct-watchdog-quits-amid-criminal-investigation-historic-allegation.html)
 
 H﻿arvey Proctor has called for a reopening of the investigation into officers connected with operation midland, who were not held responsible for the massive failures at the MET.
 
-[Former Tory MP who was caught up in false 'VIP paedophile ring' scandal demands 'full transparency' over exit of police watchdog chief accused of 'inappropriate historical relationship with a child aged 14 or 15'](<Former Tory MP who was caught up in false 'VIP paedophile ring' scandal demands 'full transparency' over exit of police watchdog chief accused of 'inappropriate historical relationship with a child aged 14 or 15'>)
+[Former Tory MP who was caught up in false 'VIP paedophile ring' scandal demands 'full transparency' over exit of police watchdog chief accused of 'inappropriate historical relationship with a child aged 14 or 15'](https://www.dailymail.co.uk/news/article-11501249/Harvey-Proctor-demands-transparency-Michael-Lockwood-exit.html)
 
 In 2019 Lockwood complained of a "witch hunt" against the MET - after being partisan to an actual witch-hunt against respected and renown personages! What did he expect?
 
