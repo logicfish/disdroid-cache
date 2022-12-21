@@ -1,6 +1,6 @@
 ---
 title: "Huddersfield Sex Offenders :: Richard Tasker, Bar Manager"
-description: Vile pedophile tried claim that he was "pansexual"
+description: Vile pedophile tried to claim that his computer had been hacked
 datePublished: 2022-12-21T19:14:56.113Z
 dateModified: 2022-12-21T19:14:57.648Z
 cover: assets/0_tasker.jpg
@@ -11,9 +11,9 @@ tags:
   - huddersfield
   - sex-offenders
 ---
+## V﻿ile pervert escapes jail
+
 <iframe width="713" height="401" src="https://www.youtube.com/embed/0wJGOY0B578" title="Richard Tasker, The Parish, Huddersfield - pedophile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 <!--StartFragment-->
 
