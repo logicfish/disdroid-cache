@@ -14,28 +14,44 @@ tags:
   - child-abuse
   - pedophile
 ---
-### Sex abuse trial for Slathwaite judo teacher Neil Gilpin
+### B﻿ack in 2011/12 our researchers discovered that Judo teacher Neil Gilpin was abusing young boys
 
-<http://archive.is/EaCm0>
+There was physical evidence too - a USB drive containing indecent images that had been provided to him by a ring, which was intercepted by our brave researcher, and handed in to detectives at Huddersfield police...  Who did nothing.
 
-[Sex abuse trial for Slathwaite judo teacher Neil Gilpin - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/sex-abuse-trial-slathwaite-judo-4954632)
+M﻿eanwhile, Gilpin was facing trial for a different set of offences - yet thanks to statements and character witnesses, including reporters from Yorkshire Live (Huddersfield Examiner) he was released.
+
+J﻿ust look at the amount of articles defending Gilpin published in 2012 by the Examiner
+
+> ### ﻿[Sex abuse trial for Slathwaite judo teacher Neil Gilpin - Examiner Live (archive.is)](https://archive.is/EaCm0)
+>
+> [Sex abuse trial for Slathwaite judo teacher Neil Gilpin - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/sex-abuse-trial-slathwaite-judo-4954632)
+>
+>
+>
+> ### Huddersfield judo coach Neil Gilpin defends himself in sex assault trial
+>
+> <http://archive.is/2XwsV>
+>
+> [Huddersfield judo coach Neil Gilpin defends himself in sex assault trial - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/huddersfield-judo-coach-neil-gilpin-4944946)
+>
+>
+>
+> ### [Judo coach cleared of sex charges - Examiner Live (archive.is)](https://archive.is/wOjjQ)
+>
+> [Judo coach cleared of sex charges - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/local-news/judo-coach-cleared-sex-charges-4945040)
 
 
 
-### Huddersfield judo coach Neil Gilpin defends himself in sex assault trial
+C﻿ompared to just one single article about his conviction - no explanation, no apology:
 
-<http://archive.is/2XwsV>
+> ### [Paedophile Neil Gilpin from Slaithwaite jailed for 10 years for sex offences against young boys - YorkshireLive (archive.ph)](https://archive.ph/cl4DR)
+>
+> [Paedophile Neil Gilpin from Slaithwaite jailed for 10 years for sex offences against young boys - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/paedophile-neil-gilpin-slaithwaite-jailed-12212597)
 
-[Huddersfield judo coach Neil Gilpin defends himself in sex assault trial - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/huddersfield-judo-coach-neil-gilpin-4944946)
+## W﻿hat happened to the researcher who reported Gilpin?
 
+[Mark Fisher detained in hospital after posting false claims online linking Huddersfield people to paedophilia - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/mark-fisher-detained-huddersfield-paedophilia-8948683)
 
+[Internet troll who branded innocent people paedophiles and terrorists convicted of harassment - Mirror Online](https://www.mirror.co.uk/news/uk-news/internet-troll-who-branded-innocent-5433295)
 
-### [Judo coach cleared of sex charges - Examiner Live (archive.is)](https://archive.is/wOjjQ)
-
-[Judo coach cleared of sex charges - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/local-news/judo-coach-cleared-sex-charges-4945040)
-
-
-
-### [Paedophile Neil Gilpin from Slaithwaite jailed for 10 years for sex offences against young boys - YorkshireLive (archive.ph)](https://archive.ph/cl4DR)
-
-[Paedophile Neil Gilpin from Slaithwaite jailed for 10 years for sex offences against young boys - YorkshireLive (examinerlive.co.uk)](https://www.examinerlive.co.uk/news/west-yorkshire-news/paedophile-neil-gilpin-slaithwaite-jailed-12212597)
+B﻿ut then quietly released, with no explanation or apology, but a clean bill of mental health. Meanwhile, the disgraceful articles by Maxwell's corrupt press remain in full view with no correction.
