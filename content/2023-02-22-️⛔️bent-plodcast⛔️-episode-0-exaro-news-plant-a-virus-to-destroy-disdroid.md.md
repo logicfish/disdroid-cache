@@ -37,6 +37,10 @@ They Also Gained Access to Social Media Accounts Whereby They Created False Evid
 
 Acting in Cohorts with Fellow Pedophiles in the MET, They Launched an Attack Against British High Command! 
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/6-NdnIWa67A" title="\[️⛔️DisDroid:OpToxic☢️Bent Plodcast⛔️] Episode 0 - Exaro/Live Vs DisDroid:Alpha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 Andrew Robinson, Journalist at "Examiner Live" Presented Himself as a Conduit For Passing Evidence to the CID Evidence Recovered From Devices Belonging to a Known Pedophile From There, we were able to Trace their Network... 
 
 However, Robinson was later found to be Assisting Pedophile Judo Coach Neil Gilpin Robinson gave a character reference used to clear Gilpin's name. 
