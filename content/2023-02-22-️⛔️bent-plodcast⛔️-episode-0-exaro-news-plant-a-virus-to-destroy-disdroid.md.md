@@ -6,11 +6,14 @@ dateModified: 2023-02-23T01:04:49.048Z
 cover: assets/frame-03189.png
 coverAlt: The bogus officers planted a virus on behalf of EXARO
 slug: exaro-vs-disdroid
-category: casefile
+category: casefiles
 tags:
   - bent-cops
   - exaro
-  - operation-met
+  - yorkshirelive
+  - examiner
+  - examinerlive
+  - op-midland
   - iqsec
   - cybersox
   - psipher
@@ -26,7 +29,7 @@ tags:
   - keksek
   - disdroid
   - theomen
-  - opToxic
+  - optoxic
   - deadanons
 ---
 <!--StartFragment-->

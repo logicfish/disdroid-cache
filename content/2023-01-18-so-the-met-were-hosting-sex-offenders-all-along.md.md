@@ -9,6 +9,8 @@ slug: met-police-hiding-rapist
 category: met
 tags:
   - met
+  - metropolitan-police
+  - sex-offenders
 ---
 ### How did one of Britain’s worst sex offenders work in the Met Police? - BBC Newsnight
 

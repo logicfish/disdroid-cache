@@ -10,6 +10,7 @@ category: casefiles
 tags:
   - huddersfield
   - sex-offenders
+  - richard-tasker
 ---
 ## Vile pervert Richard Tasker escapes jail
 

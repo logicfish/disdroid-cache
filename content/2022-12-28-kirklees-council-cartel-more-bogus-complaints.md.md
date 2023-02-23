@@ -9,5 +9,7 @@ slug: kirklees-council-bogus-complaints
 category: kirklees-council
 tags:
   - cartel
+  - kirklees
+  = kirklees-council
 ---
-T﻿his letter was received on 28/12/2022
+This letter was received on 28/12/2022

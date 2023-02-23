@@ -7,12 +7,15 @@ dateModified: 2023-02-06T11:57:15.571Z
 cover: assets/gilpin-jailed.jpg
 coverAlt: Pervert Neil Gilpin, Slaithwaite, jailed for 10 years
 slug: yorkshire-live-rapists
-category: casefile
+category: casefiles
 tags:
-  - yorkshirelive
-  - neilgilpin
+  - yorkshire-live
+  - neil-gilpin
   - child-abuse
   - pedophile
+  - yorkshirelive
+  - examiner
+  - examinerlive
 ---
 ### B﻿ack in 2011/12 our researchers discovered that Judo teacher Neil Gilpin was abusing young boys
 

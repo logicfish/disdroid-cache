@@ -10,6 +10,7 @@ slug: PC-5340 Mates-Huddersfield-filming-warning
 category: casefiles
 tags:
   - huddersfield-police
+  - mates-5340
 ---
 What law in the land does 5340 Mates of Huddersfield imagine can allow her to prevent a person from installing thier own security camera and filming thier own front garden through their own bedroom window?
 

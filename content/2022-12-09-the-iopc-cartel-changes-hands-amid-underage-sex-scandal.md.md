@@ -8,9 +8,12 @@ dateModified: 2022-12-09T14:47:13.015Z
 cover: assets/2.70093894-05ff50.webp
 coverAlt: IOPC boss Michael Lockwood sex scandal
 slug: iopc-michael-lockwood-underage-sex-scandal
-category: casefile
+category: casefiles
 tags:
   - iopc
+  - cartel
+  - michael-lockwood
+  - sex-offenders
 ---
 [Head of police complaints watchdog Michael Lockwood QUITS £190,000-a-year role amid criminal investigation into an allegation 'of a sexual nature' from 40 years ago](https://www.dailymail.co.uk/news/article-11499051/Head-police-conduct-watchdog-quits-amid-criminal-investigation-historic-allegation.html)
 

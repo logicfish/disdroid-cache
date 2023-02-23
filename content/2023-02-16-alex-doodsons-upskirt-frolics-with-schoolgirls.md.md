@@ -14,6 +14,9 @@ tags:
   - rochdale
   - upskirt
   - schoolgirls
+  - yorkshirelive
+  - examiner
+  - examinerlive
 ---
 <iframe width="647" height="364" src="https://www.youtube.com/embed/_y4rqca0uW0" title="Alex Doodson, Rochdale - upskirt images of children" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
