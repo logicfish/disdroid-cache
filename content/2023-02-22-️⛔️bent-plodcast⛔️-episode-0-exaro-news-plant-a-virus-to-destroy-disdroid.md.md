@@ -2,7 +2,7 @@
 title: "[️⛔️Bent Plodcast⛔️] Episode 0 - Exaro News plant a virus to DESTROY DisDroid"
 description: See how they gain illegal access to our researcher's home
 datePublished: 2023-02-21T19:19:41.356Z
-dateModified: 2023-02-21T19:19:41.393Z
+dateModified: 2023-02-23T01:04:49.048Z
 cover: assets/frame-03189.png
 coverAlt: The bogus officers planted a virus on behalf of EXARO
 slug: exaro-vs-disdroid
@@ -31,27 +31,25 @@ tags:
 ---
 <!--StartFragment-->
 
-These Bogus Officers had Installed a Virus And Disabled a SECURE LINK 
+## These Bogus Officers had Installed a Virus And Disabled a SECURE LINK 
 
 They Also Gained Access to Social Media Accounts Whereby They Created False Evidence That Was Used To Obtain A False Conviction.... 
 
-Acting in Cohorts with Fellow Pedophiles in the MET, They Launched an Attack Against British High Command! 
+### Acting in Cohorts with Fellow Pedophiles in the MET, They Launched an Attack Against British High Command! 
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/6-NdnIWa67A" title="\[️⛔️DisDroid:OpToxic☢️Bent Plodcast⛔️] Episode 0 - Exaro/Live Vs DisDroid:Alpha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<iframe width="640" height="480" src="https://www.youtube.com/embed/6-NdnIWa67A" title="\\[️⛔️DisDroid:OpToxic☢️Bent Plodcast⛔️] Episode 0 - Exaro/Live Vs DisDroid:Alpha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Andrew Robinson, Journalist at "Examiner Live" Presented Himself as a Conduit For Passing Evidence to the CID Evidence Recovered From Devices Belonging to a Known Pedophile From There, we were able to Trace their Network... 
 
-However, Robinson was later found to be Assisting Pedophile Judo Coach Neil Gilpin Robinson gave a character reference used to clear Gilpin's name. 
+### However, Robinson was later found to be Assisting Pedophile Judo Coach Neil Gilpin Robinson gave a character reference used to clear Gilpin's name. 
 
 The examiner published a series of articles emphasizing Gilpin's innocence Meanwhile, pedophile hackers interfered with published articles concerning Gilpin, planting evidence that was later used in a gross abuse of process. 
 
 Gilpin was later convicted, and given a ten-year sentence after dragging a child into a ditch and committing rape. Our researcher was quietly released from the mental hospital, having shown no symptoms of mental illness whatsoever. However, grave deeds were afoot... 
 
-Robinson had given a character reference for Neil Gilpin which went some way towards securing his release! 
+## Robinson had given a character reference for Neil Gilpin which went some way towards securing his release! 
 
-Together They conspired to subvert our investigation. 
+### Together They conspired to subvert our investigation. 
 
 After blogging about Gilpin, Our researcher was labeled "A Fantasist" and put on a Section - Until Gilpin's arrest in 2016 For CHILD RAPE When our researcher was quietly released with NO APOLOGY nor EXPLANATION 
 
@@ -61,6 +59,6 @@ Corrupt Officer MATES 5 3 4 0 HUDDERSFIELD Entered the home of our researcher al
 
 Corrupt officer JOSHUA HARLAND 1 4 0 6, Now believed to be a part of the ring, Illegally seized equipment containing camera footage of MATES and sex offender RICHARD TASKER entering the premises. Harland also made sure that our researcher was attacked by thugs, in order to steal his mobile device, and provide him with a trojaned device provided to him by RUSSIAN HACKERS. 
 
-Stay Tuned... 
+*Stay Tuned...* 
 
 <!--EndFragment-->
