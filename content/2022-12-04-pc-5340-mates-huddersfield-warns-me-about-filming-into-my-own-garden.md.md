@@ -11,6 +11,7 @@ category: casefiles
 tags:
   - huddersfield-police
   - mates-5340
+  - sex-offenders
 ---
 What law in the land does 5340 Mates of Huddersfield imagine can allow her to prevent a person from installing thier own security camera and filming thier own front garden through their own bedroom window?
 
