@@ -10,6 +10,6 @@ category: kirklees-council
 tags:
   - cartel
   - kirklees
-  = kirklees-council
+  - kirklees-council
 ---
 This letter was received on 28/12/2022
