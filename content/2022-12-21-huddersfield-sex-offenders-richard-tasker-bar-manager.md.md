@@ -24,9 +24,9 @@ just enough space to hide a very small wifi router. However it was one of the on
 broadcast to every device in radius. So he proceeded to connect his phone and began to capture traffic.
 
 When I next saw him, his face was green. He couldn't articulate. He kept looking at me, and nodding his head but no words came from him.
-This detered me from further investigation, given that I have a long-term physical illness and could not risk a relapse.
+This deterred me from further investigation, given that I have a long-term physical illness and could not risk a relapse.
 
-It's not possible that this could have been hidden from staff and owners. Also, the pub had been freqented by devils such as Ian Watkins
+It's not possible that this could have been hidden from staff and owners. Also, the pub had been frequented by devils such as Ian Watkins
 from the band Lost Prophets, and strange groups of people who weren't known locally seemed to be coming and going at strange intervals.
 
 Now we have a clue to the answer - the tip of the iceberg:
@@ -39,7 +39,7 @@ Now we have a clue to the answer - the tip of the iceberg:
 
 <!--EndFragment-->
 
-Why did the Examiner print this misleading article? He did not "spend christmas in jail". 
+Why did the Examiner print this misleading article? He did not "spend christmas in jail".
 
 <!--StartFragment-->
 
@@ -48,6 +48,7 @@ Why did the Examiner print this misleading article? He did not "spend christmas 
 <!--EndFragment-->
 
 He was spotted in the town center on Christmas Eve.
-The Examiner is owned by Maxwell Group Press and freqently covers up for pedophiles, such as the judo coach who dragged a child into a ditch
-and buggered him, after being cleared in court because reporters from The Examiner submitted character references causing the judge to 
-dismiss earlier cases. The Examiner were triumphant, and published several articles such as this one:
+The Examiner is owned by Maxwell Group Press and frequently covers up for pedophiles, such as the judo coach who dragged a child into a ditch
+and buggered him, after being cleared in court because reporters from The Examiner submitted character references causing the judge to
+dismiss earlier cases.
+The Examiner were triumphant, and published several articles.
