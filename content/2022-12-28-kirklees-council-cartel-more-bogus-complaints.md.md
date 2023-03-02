@@ -25,6 +25,8 @@ The dog is little more than a pup, and is completely harmless.
 However, I can see how this might be seen as a problem by the ring,
 as they had earmarked the alley near my house for their activities.
 
+## There is absolutely no evidence to their claims
+
 Council vans have been spotted parked in odd places, at odd hours -
 they have also been spotted making what appear to be drop-offs.
 Probably drugs, but may include children, hence the need for the
