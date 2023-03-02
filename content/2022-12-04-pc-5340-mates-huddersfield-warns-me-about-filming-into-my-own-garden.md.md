@@ -13,7 +13,7 @@ tags:
   - mates-5340
   - sex-offenders
 ---
-What law in the land does 5340 Mates of Huddersfield imagine can allow her to prevent a person from installing thier own security camera and filming thier own front garden through their own bedroom window?
+What law in the land does 5340 Mates of Huddersfield imagine can allow her to prevent a person from installing thier own security camera and filming their own front garden through their own bedroom window?
 
 This letter came recently from Mates. She states that she has visited the property - why did she not leave a card? Why has she not disclosed the dates so that her alleged visits may be verified on the very same camera that she sees as her enemy? 
 
@@ -36,13 +36,13 @@ captured for all time on this tiny camera.
 
 ![Neightbours from Hell, Huddersfield](assets/neighbours-from-hell.png)
 
-PC Mates has also been seeen sneaking around 
-my propery, along with sex offender Richard
+PC Mates has also been seen sneaking around 
+my property, along with sex offender Richard
 Tasker,
 during the time that she alleges I made posts
 on social media in breach of a mysterious 
 restraining order imposed as part of the 
-sentence for a public order offence - that
+sentence for a public order offense - that
 of being "grossly offensive on a public network"
 yet no explanation was given as to why the
 order was put in place.  She refuses to supply
