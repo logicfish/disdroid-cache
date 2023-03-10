@@ -10,7 +10,11 @@ category: kirklees
 tags:
   - kirklees-council
 ---
-T﻿he letter shown states that council workers were "refused entry" on the 14th - except no workers visited on that day as is verifiable on CCTV.
+T﻿he letter shown states that council workers were "refused entry" on the 14th - except no workers visited on that day as is verifiable on CCTV. Mr Fisher had specifically remained at the property the whole day.
+
+T﻿he only attempt Kirklees made to contact Mr Fisher beforehand was in the form of a brief letter stating that workers would attend on the 14th. No workers arrived at the property. 
+
+What on earth could have become of them? Very strange activity has been noticed in this area, including the deaths of almost all the residents in the surrounding properties over a very short space of time!
 
 ### S﻿kivers - or cartel members?
 
