@@ -2,7 +2,7 @@
 title: Skiving Kirklees Council Workers - or Secret Cartel Meeting?
 description: Did these workers simply skive off - or did they have other arrangements?
 datePublished: 2023-03-10T19:26:55.741Z
-dateModified: 2023-03-10T19:26:55.855Z
+dateModified: 2023-03-10T20:12:12.094Z
 cover: assets/council-workers-skiving.jpg
 coverAlt: Letter received from Kirklees Council on 7/3/2023
 slug: kirklees-secret-meeting
