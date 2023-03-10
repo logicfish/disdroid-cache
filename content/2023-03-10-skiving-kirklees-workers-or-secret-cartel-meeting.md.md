@@ -1,5 +1,5 @@
 ---
-title: Skiving Kirklees Workers - or Secret Cartel Meeting?
+title: Skiving Kirklees Council Workers - or Secret Cartel Meeting?
 description: Did these workers simply skive off - or did they have other arrangements?
 datePublished: 2023-03-10T19:26:55.741Z
 dateModified: 2023-03-10T19:26:55.855Z
@@ -10,7 +10,7 @@ category: kirklees
 tags:
   - kirklees-council
 ---
-T﻿he letter shown states that council workers were "refused entry" on the 14th - except no workers visited on that day as is verifiable on CCTV. Mr Fisher had specifically remained at the property the whole day.
+T﻿he letter received on 7/3/2023 states that council workers were "refused entry" on the 14th - except no workers visited on that day as is verifiable on CCTV. Mr Fisher had specifically remained at the property the whole day.
 
 T﻿he only attempt Kirklees made to contact Mr Fisher beforehand was in the form of a brief letter stating that workers would attend on the 14th. No workers arrived at the property. 
 
