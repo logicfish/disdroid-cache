@@ -6,7 +6,7 @@ dateModified: 2023-03-10T20:12:12.094Z
 cover: assets/council-workers-skiving.jpg
 coverAlt: Letter received from Kirklees Council on 7/3/2023
 slug: kirklees-secret-meeting
-category: kirklees
+category: kirklees-council,kirklees,huddersfield,west-yorkshire
 tags:
   - kirklees-council
 ---
