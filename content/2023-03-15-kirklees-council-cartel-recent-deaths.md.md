@@ -3,10 +3,11 @@ title: Kirklees Council Cartel - Recent Deaths
 description: A map showing the sequence of recent deaths on Swan Court estate,
   Lockwood, Huddersfield
 datePublished: 2023-03-15T09:58:46.381Z
-dateModified: 2023-03-15T09:58:46.413Z
+dateModified: 2023-03-15T10:50:52.661Z
 cover: assets/swan-court-lockwood-series-r.png
-coverAlt: Map of recent deaths in Swan Court, Lockwood, Huddersfield
-slug: kirklees-council-hits
+coverAlt: Map of recent deaths in Swan Court, Lockwood, Huddersfield, a kirklees
+  council housing estate
+slug: kirklees-council-deaths
 category: kirklees-council
 tags:
   - kirklees
@@ -24,3 +25,5 @@ T﻿he symptoms preceding the deaths, in every case, was horrific.
 ### O﻿ne or two of the residents have been acting very strangely...
 
 A﻿nd secure sources indicate the Arena bomber may have used the alleys and some of the flats as a hideaway.
+
+### W﻿ere these people witnesses to the suspicious activity?
