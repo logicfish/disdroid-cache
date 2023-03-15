@@ -27,3 +27,5 @@ T﻿he symptoms preceding the deaths, in every case, was horrific.
 A﻿nd secure sources indicate the Arena bomber may have used the alleys and some of the flats as a hideaway.
 
 ### W﻿ere these people witnesses to the suspicious activity?
+
+T﻿his causes a perceived connection between Exaro News, Kirklees Council, and the Manchester Arena Bombing.
