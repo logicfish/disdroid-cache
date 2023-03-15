@@ -13,8 +13,14 @@ tags:
   - huddersfield
   - kirklees-council
 ---
-T﻿he map shows most of the recent deaths in this area (Swan Court, Lockwood, Huddersfield).
+### T﻿he map shows most of the recent deaths in this area (Swan Court, Lockwood, Huddersfield)
+
+![Swan Court and estate, Lockwood, Huddersfield - map showing the series of recent unexplained deaths](assets/swan-court-lockwood-series-r.png "Recent unexplained deaths in Lockwood, Huddersfield")
 
 O﻿ne or two people are missing from the list - Bobby Grace for example.
 
 T﻿he symptoms preceding the deaths, in every case, was horrific.
+
+### O﻿ne or two of the residents have been acting very strangely...
+
+A﻿nd secure sources indicate the Arena bomber may have used the alleys and some of the flats as a hideaway.
