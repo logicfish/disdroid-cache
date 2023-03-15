@@ -6,9 +6,13 @@ dateModified: 2023-03-10T20:12:12.094Z
 cover: assets/council-workers-skiving.jpg
 coverAlt: Letter received from Kirklees Council on 7/3/2023
 slug: kirklees-secret-meeting
-category: kirklees-council,kirklees,huddersfield,west-yorkshire
+category: kirklees-council
 tags:
   - kirklees-council
+  - ""
+  - kirklees
+  - huddersfield
+  - west-yorkshire
 ---
 T﻿he letter received on 7/3/2023 states that council workers were "refused entry" on the 14th - except no workers visited on that day as is verifiable on CCTV. Mr Fisher had specifically remained at the property the whole day.
 
