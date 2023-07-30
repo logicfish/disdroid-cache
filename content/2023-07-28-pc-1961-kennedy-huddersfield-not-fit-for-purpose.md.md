@@ -22,6 +22,10 @@ breaking the law.
 
 ## Here we see PC 1961 Kennedy break the law by refusing to identify as a police officer
 
+He and the "council worker" came pottering along with their own little script lined up, which quickly
+crumbled to ashes when they failed to produce the required documentation, and waddled away doing the 
+walk of shame, leaving a foul stench and a mess which required strong bleach to remove.
+
 
 <iframe width="1290" height="480" src="https://www.youtube.com/embed/QrKbzzVASl8" title="Bogus PC 1961 Kennedy and Kirklees Council n*nce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
