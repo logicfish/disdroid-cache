@@ -27,6 +27,8 @@ crumbled to ashes when they failed to produce the required documentation, and wa
 walk of shame, leaving a foul stench and a mess which required strong bleach to remove.
 
 
+The man has also been spotted being caught red-handed in an undercover child abuse
+
 <iframe width="1290" height="480" src="https://www.youtube.com/embed/QrKbzzVASl8" title="Bogus PC 1961 Kennedy and Kirklees Council n*nce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
