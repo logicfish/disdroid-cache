@@ -13,3 +13,7 @@ tags:
 ### Neighbours From Hell, Swan Court, Huddersfield
 
 <iframe width="670" height="377" src="https://www.youtube.com/embed/5Voocdnb7NQ" title="Annette Jarvis aka Noseybonk :: pedophile confession caught on camera!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### S﻿omething to do with this evil cretin, Ivor Richards
+
+<iframe width="670" height="377" src="https://www.youtube.com/embed/NApDyIOnWsA" title="&quot;Dirty Ivor&quot; (Ivor Richards) - Stalks and Threatens Innocent Couple" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
