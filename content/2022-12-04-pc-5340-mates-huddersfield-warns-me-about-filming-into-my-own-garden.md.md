@@ -3,9 +3,9 @@ title: PC 5340 Mates, Huddersfield warns me about filming into my own garden!
 description: The camera runs 24/7 because the lane is being targeted by pimps
   and drug pushers
 datePublished: 2022-12-04T02:24:15.392Z
-dateModified: 2022-12-04T23:17:39.649Z
-cover: assets/52458668-b.jpg
-coverAlt: Richard Tasker, Huddersfield - sex offender, pedophile
+dateModified: 2023-07-10T23:57:39.649Z
+cover: assets/52458668-pc-karen-mates-pedophile-richard-tasker.jpg
+coverAlt: PC Karen Mates and pedophile Richard Tasker, Huddersfield - sex offender, pedophile
 slug: PC-5340 Mates-Huddersfield-filming-warning
 category: casefiles
 tags:
@@ -64,4 +64,4 @@ However, they have been very vague as to the
 location and nature of these alleged posts, 
 presumably in an attempt to elude detection.
 
-![Richard Takser, Huddersfield - sex offender](assets/52458668-b.jpg)
+![Richard Takser, Huddersfield (pedophile) with PC Mates](assets/52458668-pc-karen-mates-pedophile-richard-tasker.jpg)
