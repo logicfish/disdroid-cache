@@ -6,9 +6,9 @@ dateModified: 2023-09-29T22:37:19.885Z
 cover: assets/frame-00557-jarvis-slipper.png
 coverAlt: Annette Jarvis Huddersfield pedophile confession
 slug: annette-jarvis-huddersfield-nonce
-category: "#casefile"
+category: "casefiles"
 tags:
-  - "#swancourt"
+  - "swancourt"
 ---
 ### Neighbours From Hell, Swan Court, Huddersfield
 
