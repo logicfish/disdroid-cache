@@ -9,9 +9,19 @@ slug: kirklees-council-kiddie-cartel
 category: kirklees-council
 tags:
   - kirklees
+  - kirklees-council
+  - kirklees-council-complaints
+  - west-yorkshire
+  - huddersfield
 ---
-![](assets/pc-kennedy.png)
 
-T﻿hese two numpties dropped by....
+T﻿hese two numpties dropped by but refused to identify themselves.
+They sprung me with a ludicrous community order, designed to protect the terrorists
+and hard crime rings that are known to frequent this local area.
 
-![](assets/safer-kirklees-3.jpg)
+So far, they have ignored my complaints and are being put on notice. The problem
+residents are being moved from the area.
+
+![PC 1961 Kennedy, Huddersfield - Not fit for purpose](assets/pc-kennedy.png)
+
+![The Flowerpot Men, Kirklees Council complaints](assets/safer-kirklees-3.jpg)

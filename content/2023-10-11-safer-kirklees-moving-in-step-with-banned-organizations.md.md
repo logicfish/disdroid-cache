@@ -8,13 +8,17 @@ coverAlt: The "Black Zone" of unexplained deaths near and around Swan Court, Hud
 slug: safer-kirklees-instep-with-terrorists
 category: kirklees-council
 tags:
+  - kirklees
   - kirklees-council
   - council-cartel
   - swan-court
+  - kirklees-council-complaints
+  - west-yorkshire
+  - huddersfield
 ---
 
 
-Back in July, I received a mysterious visit from two individuals known to me as suspect members of a dark-web pedophile ring.
+Back in July, I [received a mysterious visit](https://disdroid.co.uk/kirklees-council-kiddie-cartel) from two individuals known to me as suspect members of a dark-web pedophile ring.
 
 _Rewards paid for further information._
 
