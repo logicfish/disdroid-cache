@@ -25,3 +25,9 @@ residents are being moved from the area.
 ![PC 1961 Kennedy, Huddersfield - Not fit for purpose](assets/pc-kennedy.png)
 
 ![The Flowerpot Men, Kirklees Council complaints](assets/safer-kirklees-3.jpg)
+
+Here they are in action - pay special attention to the *Walk of Shame*!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TW-ZM9X8Etc" title="Bogus Kirklees Council worker tries to censor my social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
