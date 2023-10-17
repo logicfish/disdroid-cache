@@ -2,7 +2,7 @@
 title: Kirklees Council Kiddie Cartel Pay a Visit via The Flowerpot Men
 description: But they've forgotten their ID
 datePublished: 2023-09-16T12:13:18.842Z
-dateModified: 2023-09-16T12:13:18.869Z
+dateModified: 2023-10-17T18:49:47.824Z
 cover: assets/scene-0-00.02.55.21-knh-worker.png
 coverAlt: Intercepted on his way to meet a child (decoy) after grooming on social media
 slug: kirklees-council-kiddie-cartel
