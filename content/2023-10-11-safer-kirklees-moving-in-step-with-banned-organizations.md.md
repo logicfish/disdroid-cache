@@ -6,7 +6,7 @@ dateModified: 2023-10-11T12:05:07.432Z
 cover: assets/lockwood-black-zone.png
 coverAlt: The "Black Zone" of unexplained deaths near and around Swan Court, Huddersfield
 slug: safer-kirklees-instep-with-terrorists
-category: casefiles
+category: kirklees-council
 tags:
   - kirklees-council
   - council-cartel
