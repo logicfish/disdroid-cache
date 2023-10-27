@@ -28,6 +28,8 @@ In 2015 I was convicted for malicious communications after a pedophile gang acce
 
 Then in 2021 I was convicted for misuse of a public network, under public order, afer the ring again made an illegal access. Although there was no plaintif, the court issued a restraining order that I was to make no further contact with an individual to whom I had made no actual contact with.
 
+![](assets/restraining-order-redacted.png)
+
 Then, miraculously, after a further illegal access involving the theft of actual equipment, it was declared from nowhere that the order had been breached.
 
 The original date that the officers gave for the alleged breach was altered at a later hearing - after equipment containing probable CCTV evidendence of the intrusion was confiscated after false claims of racism were made - for using the word "black" wuth reference to an african person, shown threatening me and my partner in this clip here:
