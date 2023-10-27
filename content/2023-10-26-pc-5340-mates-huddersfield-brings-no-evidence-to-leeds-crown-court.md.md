@@ -13,7 +13,7 @@ tags:
   - west-yorkshire
   - west-yorkshire-police
 ---
-PC Mates has failed to understand a viral part of the judicial process - actual evidence.
+PC Mates has failed to understand a vital part of the judicial process - actual evidence.
 
 She appears to imagine that evidence can just be created or drawn up on-the-fly, 
 without leaving the comfort and safety of Huddersfield police station.
