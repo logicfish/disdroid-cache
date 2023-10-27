@@ -10,7 +10,7 @@ category: wy-police
 tags:
   - police
   - crown-court
-  = west-yorkshire
+  - west-yorkshire
   - west-yorkshire-police
 ---
 PC Mates has failed to understand a viral part of the judicial process - actual evidence.
