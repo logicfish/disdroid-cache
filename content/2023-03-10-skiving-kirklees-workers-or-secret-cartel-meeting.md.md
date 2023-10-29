@@ -9,7 +9,8 @@ slug: kirklees-secret-meeting
 category: kirklees-council
 tags:
   - kirklees-council
-  - ""
+  - kirklees-council-pedophiles
+  - kirklees-council-cartel
   - kirklees
   - huddersfield
   - west-yorkshire

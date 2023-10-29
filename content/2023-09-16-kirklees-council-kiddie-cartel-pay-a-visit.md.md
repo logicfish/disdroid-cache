@@ -13,6 +13,9 @@ tags:
   - kirklees-council-complaints
   - west-yorkshire
   - huddersfield
+  - kirklees-council
+  - kirklees-council-pedophiles
+  - kirklees-council-cartel
 ---
 
 T﻿hese two numpties dropped by but refused to identify themselves.

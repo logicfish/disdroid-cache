@@ -11,6 +11,8 @@ tags:
   - cartel
   - kirklees
   - kirklees-council
+  - kirklees-council-pedophiles
+  - kirklees-council-cartel
 ---
 This letter was received on 28/12/2022.
 

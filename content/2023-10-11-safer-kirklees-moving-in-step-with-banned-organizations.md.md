@@ -15,6 +15,8 @@ tags:
   - kirklees-council-complaints
   - west-yorkshire
   - huddersfield
+  - kirklees-council-pedophiles
+  - kirklees-council-cartel
 ---
 
 
