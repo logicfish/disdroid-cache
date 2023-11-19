@@ -9,6 +9,13 @@ slug: kirklees-council-antisemite
 category: Kirklees-council
 tags:
   - antisemite
+  - kirklees
+  - kirklees-council
+  - council-cartel
+  - kirklees-council-antisemitism
+  - kirklees-council-complaints
+  - west-yorkshire
+  - kirklees-council-cartel
 ---
 A young couple were needlessly jailed whilst starting a young family, over 
 a [minor offence which escalated](https://www.bbc.co.uk/news/uk-england-leeds-66122776) 
