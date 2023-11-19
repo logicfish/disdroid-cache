@@ -10,4 +10,29 @@ category: Kirklees-council
 tags:
   - antisemite
 ---
-A﻿ young couple were needlessly jailed whilst starting a young family, over a [minor offence which escalated](https://www.bbc.co.uk/news/uk-england-leeds-66122776) after they attempted to deceive the authorities.
+A young couple were needlessly jailed whilst starting a young family, over 
+a [minor offence which escalated](https://www.bbc.co.uk/news/uk-england-leeds-66122776) 
+after they attempted to deceive the authorities.
+
+> Fazila Loonat's partner Afshin Amini was captured driving her car at 39mph on a 30mph road in Dewsbury in 2020.
+
+> Barrister Jayne Beckett, for Loonat, said she was "terrified of prison".
+> "She's very tearful today and obviously distressed for her children.
+> "This is a really huge and very sad fall from grace."
+> Barrister Susannah Proctor, for Amini, said he was also frightened at the prospect of going to prison and had expressed genuine remorse.
+> She added he had played a lesser role and was not the prime mover.
+
+### [Their replacement has now been suspended from Labour for antisemitism](https://www.bbc.co.uk/news/uk-england-leeds-67412822)
+
+
+> A Kirklees councillor has been suspended from the Labour Party after being accused of sharing antisemitic content on social media.
+> Ebrahim Dockrat is under investigation by the party, according to the Local Democracy Reporting Service (LDRS).
+
+> The Batley East councillor was elected in August's by-election and took the seat of former councillor Fazila Loonat who received a jail sentence for perverting the course of justice in an attempt to avoid a speeding penalty.
+
+
+
+
+### [The antisemetic councillor responds](https://archive.is/AnGjZ)
+
+> “For the record, Cllr Dockrat is shocked and horrified at the suggestion that he posted anything on social media, which could be construed or interpreted as antisemitic. He has devoted his working life to fighting discrimination in all its forms and to serving the local community. He has worked with the CPS regionally and nationally and was awarded an MBE for his work advising the Hate Crime Scrutiny process. He also served as Chair of the West Yorkshire Criminal Justice Board’s Diversity Panel."
