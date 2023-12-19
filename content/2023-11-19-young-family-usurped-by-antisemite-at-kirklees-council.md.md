@@ -29,6 +29,11 @@ after they attempted to deceive the authorities.
 > Barrister Susannah Proctor, for Amini, said he was also frightened at the prospect of going to prison and had expressed genuine remorse.
 > She added he had played a lesser role and was not the prime mover.
 
+## Prime minister Rishi Sunak declares Kirklees Council "not fit for purpose"
+
+> I share my hon. Friend’s disappointment with the Labour-run council in Kirklees. Just this week we saw a Labour councillor suspended for antisemitism. As he said, it has also closed Dewsbury sports centre and is proposing to increase car parking charges, punishing local businesses and shoppers in the run-up to Christmas. Clearly, the council is no longer fit for purpose. Local residents deserve better.
+
+
 ### [Their replacement has now been suspended from Labour for antisemitism](https://www.bbc.co.uk/news/uk-england-leeds-67412822)
 
 
@@ -43,3 +48,7 @@ after they attempted to deceive the authorities.
 ### [The antisemetic councillor responds](https://archive.is/AnGjZ)
 
 > “For the record, Cllr Dockrat is shocked and horrified at the suggestion that he posted anything on social media, which could be construed or interpreted as antisemitic. He has devoted his working life to fighting discrimination in all its forms and to serving the local community. He has worked with the CPS regionally and nationally and was awarded an MBE for his work advising the Hate Crime Scrutiny process. He also served as Chair of the West Yorkshire Criminal Justice Board’s Diversity Panel."
+
+### Was Loomat persuaded by Shabir Pandor, cousin to 
+
+At the last full council meeting, Cllr Pandor was accused of ‘wilfully misleading’ the council by Kirklees’ Tories through his handling of the case of Batley East Cllr Fazila Loonat. Cllr Loonat was given 14 weeks in prison for perverting the course of justice in an attempt to dodge a penalty for speeding.
