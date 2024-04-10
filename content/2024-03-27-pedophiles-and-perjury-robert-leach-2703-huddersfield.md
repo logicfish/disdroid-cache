@@ -4,8 +4,8 @@ description: Victim of Robert Leach 2703 Huddersfield leaves posthumous messages
 datePublished: 2024-03-17T10:40:00.000Z
 dateModified: 2024-03-17T10:40:00.000Z
 cover: assets/leach-warnings.png
-coverAlt: 
-slug: pedophiles-and-perjury
+coverAlt: Posthumous warnings about PC Robert Leach 2703
+slug: pedophiles-and-perjury-2
 category: huddersfield-police
 tags:
   - huddersfield
